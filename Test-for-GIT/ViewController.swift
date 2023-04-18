@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         // я создал ветку development
         print ("test message Development branch has been created right")
         
+        print ("после создания ветки ")
     }
 
 
